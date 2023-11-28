@@ -1,0 +1,10 @@
+E:\CSharp\FileHandlingInC#\FileHandlingInC#\bin\Debug\FileHandlingInC#.exe.config
+E:\CSharp\FileHandlingInC#\FileHandlingInC#\bin\Debug\FileHandlingInC#.exe
+E:\CSharp\FileHandlingInC#\FileHandlingInC#\bin\Debug\FileHandlingInC#.pdb
+E:\CSharp\FileHandlingInC#\FileHandlingInC#\obj\Debug\FileHandlingInC#.csproj.AssemblyReference.cache
+E:\CSharp\FileHandlingInC#\FileHandlingInC#\obj\Debug\FileHandlingInC#.csproj.CoreCompileInputs.cache
+E:\CSharp\FileHandlingInC#\FileHandlingInC#\obj\Debug\FileHandlingInC#.exe
+E:\CSharp\FileHandlingInC#\FileHandlingInC#\obj\Debug\FileHandlingInC#.pdb
+E:\CSharp\FileHandlingInC#\FileHandlingInC#\bin\Debug\Newtonsoft.Json.dll
+E:\CSharp\FileHandlingInC#\FileHandlingInC#\bin\Debug\Newtonsoft.Json.xml
+E:\CSharp\FileHandlingInC#\FileHandlingInC#\obj\Debug\FileHandlingInC#.csproj.CopyComplete
